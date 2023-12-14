@@ -2,4 +2,4 @@
 
 - **Họ và tên:** Vương Thế Khang
 - **MSSV**: 19120539
-- **Link colab:** https://colab.research.google.com/drive/1uKSE2g_hUxDl_YeQKsxiQVy324tRvYwI?usp=sharing
+- **Google Colab:** https://colab.research.google.com/drive/1uKSE2g_hUxDl_YeQKsxiQVy324tRvYwI?usp=sharing
